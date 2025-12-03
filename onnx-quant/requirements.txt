@@ -1,0 +1,7 @@
+torch
+torchvision
+onnx
+onnxruntime
+onnxruntime-tools
+numpy
+scikit-learn
